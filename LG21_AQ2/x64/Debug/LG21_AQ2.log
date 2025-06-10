@@ -1,4 +1,0 @@
-﻿  AQ2.cpp
-C:\Users\erka\Desktop\hakan\OneDrive\Lab guides\LG21_Sol\LG21_AQ2\AQ2.cpp(66,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  LINK : C:\Users\erka\Desktop\hakan\OneDrive\Lab guides\LG21_Sol\x64\Debug\LG21_AQ2.exe not found or not built by the last incremental link; performing full link
-  LG21_AQ2.vcxproj -> C:\Users\erka\Desktop\hakan\OneDrive\Lab guides\LG21_Sol\x64\Debug\LG21_AQ2.exe
